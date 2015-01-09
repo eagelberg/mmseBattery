@@ -1,0 +1,9 @@
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\bin\Debug\mmseBattery.exe.config
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\bin\Debug\mmseBattery.exe
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\bin\Debug\mmseBattery.pdb
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.csprojResolveAssemblyReference.cache
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.Form1.resources
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.Properties.Resources.resources
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.csproj.GenerateResource.Cache
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.exe
+c:\users\guy\documents\visual studio 2013\Projects\mmseBattery\mmseBattery\obj\Debug\mmseBattery.pdb
